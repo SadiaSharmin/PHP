@@ -1,0 +1,18 @@
+git clone link
+git status
+git add filename - statging area 
+git add . - untracked all file go to staging area 
+git commit filename - to save into local repository 
+git commit -m "created a new file"
+
+git push  - to push it to git hub repository 
+
+git push -u origin master
+
+-u origin master - for master bracnh
+
+
+git branch name - to create a branch 
+git branch - to see how many branch 
+
+(visual code)
