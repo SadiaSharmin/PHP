@@ -1,0 +1,34 @@
+git clone link - clone the code 
+git status
+git add filename - statging area 
+git add . - untracked all file go to staging area 
+git commit filename - to save into local repository 
+git commit -m "created a new file"
+
+git push  - to push it to git hub repository 
+
+git push -u origin master
+
+-u origin master - for master bracnh
+
+
+git branch name - to create a branch 
+git branch - to see how many branch 
+
+git checkout nazmul - to start working in the branch 
+
+
+
+git add . 
+git commit -m "created a new file"
+git push  -u origin nazmul
+
+
+
+
+git log --oneline- to show the history of my work
+
+
+git diff commitid commitid - difference between two commit 
+
+(visual code) - backgorund soho dekha
