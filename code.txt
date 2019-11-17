@@ -1,4 +1,4 @@
-git clone link
+git clone link - clone the code 
 git status
 git add filename - statging area 
 git add . - untracked all file go to staging area 
@@ -15,4 +15,20 @@ git push -u origin master
 git branch name - to create a branch 
 git branch - to see how many branch 
 
-(visual code)
+git checkout nazmul - to start working in the branch 
+
+
+
+git add . 
+git commit -m "created a new file"
+git push  -u origin nazmul
+
+
+
+
+git log --oneline- to show the history of my work
+
+
+git diff commitid commitid - difference between two commit 
+
+(visual code) - backgorund soho dekha
